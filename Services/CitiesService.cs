@@ -20,11 +20,11 @@ namespace Services
     {
       _servieInstanceId = Guid.NewGuid();
       _cities = new List<string>() { 
-        "London",
-        "Paris",
-        "New York",
-        "Tokyo",
-        "Rome"
+        "Bangalore",
+        "Delhi",
+        "New Delhi",
+        "Pune",
+        "Mumbai"
       };
       //TO DO: Add logic to open the db connection
     }
